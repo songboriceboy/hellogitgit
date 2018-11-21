@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/untitled104.iml" filepath="$PROJECT_DIR$/untitled104.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hellogitgit.iml" filepath="$PROJECT_DIR$/.idea/hellogitgit.iml" />
+      <module fileurl="file://D:\hellogitgitgit\hellogitgit\untitled104.iml" filepath="D:\hellogitgitgit\hellogitgit\untitled104.iml" />
     </modules>
   </component>
 </project>
-
